@@ -3,3 +3,4 @@ torch
 transformers
 moviepy
 streamlit
+ffmpeg-python
