@@ -1,6 +1,6 @@
-git+https://github.com/openai/whisper.git
-torch
-transformers
-moviepy
-streamlit
-ffmpeg-python
+torch==2.5.1
+transformers==4.56.1
+moviepy==2.2.1
+streamlit==1.49.1
+ffmpeg-python==1.0.0
+git+https://github.com/openai/whisper.git@main
