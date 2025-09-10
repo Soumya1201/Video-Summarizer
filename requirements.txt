@@ -1,11 +1,10 @@
 # Core ML / NLP packages
 torch==2.5.1
 transformers==4.56.1
-git+https://github.com/openai/whisper.git@main
+openai-whisper==20250625
 
 # Video processing
 moviepy==2.2.1
-ffmpeg-python==1.0.0
 
 # Web app
 streamlit==1.49.1
